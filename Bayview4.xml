@@ -117,7 +117,7 @@
             </value>
             <next>
               <block type="oled_drawtext" id="329">
-                <field name="TEXT">cool</field>
+                <field name="TEXT">Out of juice</field>
                 <next>
                   <block type="movement_stop" id="339"></block>
                 </next>
